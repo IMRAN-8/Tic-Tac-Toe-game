@@ -20,7 +20,8 @@ const scoreXCard = document.querySelector('#scoreX');
 const scoreOCard = document.querySelector('#scoreO');
 
 let board = Array(9).fill('');
-let currentPlayer = 'X';
+let startingPlayer = 'X';
+let currentPlayer = startingPlayer;
 let gameActive = true;
 let scores = {
   X: 0,
@@ -80,7 +81,8 @@ function endGame(message, winningCombo = []) {
 
 function startNewRound() {
   board = Array(9).fill('');
-  currentPlayer = 'X';
+  startingPlayer = startingPlayer === 'X' ? 'O' : 'X';
+  currentPlayer = startingPlayer;
   gameActive = true;
 
   cells.forEach(cell => {
