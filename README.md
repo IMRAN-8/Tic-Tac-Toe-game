@@ -73,7 +73,7 @@ No installation or setup is required.
 
 ## Author
 
-Created by [Imran Hosen](https://github.com/IMRAN-8).
+Created by [Imran Hosen](https://github.com/IMRAN-8)
 
 ## License
 
