@@ -6,7 +6,7 @@ A simple and responsive Tic Tac Toe game built with HTML, CSS, and vanilla JavaS
 
 > Add a screenshot here later if you want:
 >
-> `![Tic Tac Toe Screenshot](assets/screenshot.png)`
+> ![Tic Tac Toe Screenshot](assets/screenshot.png)
 
 ## Features
 
