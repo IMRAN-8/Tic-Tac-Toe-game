@@ -8,7 +8,7 @@ A simple and responsive Tic Tac Toe game built with HTML, CSS, and vanilla JavaS
 >
 > ![Tic Tac Toe Screenshot](assets/screenshot.png)
 >
-https://imran-8.github.io/Tic-Tac-Toe-game/
+Check here : https://imran-8.github.io/Tic-Tac-Toe-game/
 
 ## Features
 
