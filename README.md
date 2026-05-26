@@ -24,20 +24,3 @@ README.md
 
 Open `index.html` in your browser.
 
-## How to Upload to GitHub
-
-1. Create a new GitHub repository.
-2. Upload these files into the repository.
-3. Enable GitHub Pages if you want to host it online.
-
-## GitHub Pages
-
-If using GitHub Pages:
-
-- Go to repository **Settings**
-- Open **Pages**
-- Select branch: `main`
-- Select folder: `/root`
-- Save
-
-Your game will be live after GitHub finishes deploying it.
