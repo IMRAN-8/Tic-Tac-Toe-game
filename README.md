@@ -1,26 +1,33 @@
 # Tic Tac Toe Game
 
-A clean, responsive Tic Tac Toe game built with HTML, CSS, and vanilla JavaScript.
+A simple and responsive Tic Tac Toe game built with HTML, CSS, and vanilla JavaScript.
+
+## Preview
+
+> Add a screenshot here later if you want:
+>
+> `![Tic Tac Toe Screenshot](assets/screenshot.png)`
 
 ## Features
 
 - Two-player gameplay
-- Win and draw detection
+- Win detection
+- Draw detection
 - Score tracking for X, O, and draws
-- New round and reset score buttons
-- Responsive modern UI
-- No external dependencies
+- New round button
+- Reset score button
+- Responsive design
+- No external libraries
 
-## Files
+## Tech Stack
 
-```text
-index.html
-style.css
-script.js
-README.md
-```
+- HTML
+- CSS
+- JavaScript
 
 ## How to Run
 
-Open `index.html` in your browser.
+1. Clone the repository:
 
+```bash
+git clone https://github.com/IMRAN-8/Tic-Tac-Toe-game.git
